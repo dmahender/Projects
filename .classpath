@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_71"/>
+	<classpathentry kind="lib" path="C:/jar/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/jar/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/jar/metrics-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/jar/cassandra-driver-mapping-2.1.7.1.jar" sourcepath="C:/Users/Mahender/.m2/repository/com/datastax/cassandra/cassandra-driver-mapping/2.1.7.1/cassandra-driver-mapping-2.1.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/jar/json-simple.jar"/>
+	<classpathentry kind="lib" path="C:/jar/cassandra-driver-core-2.1.7.1.jar" sourcepath="C:/Users/Mahender/.m2/repository/com/datastax/cassandra/cassandra-driver-core/2.1.7.1/cassandra-driver-core-2.1.7.1-sources.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SpringCassandra"/>
+	<classpathentry kind="lib" path="C:/Users/Mahender/.m2/repository/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahender/.m2/repository/io/netty/netty-buffer/4.0.27.Final/netty-buffer-4.0.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahender/.m2/repository/io/netty/netty-codec/4.0.27.Final/netty-codec-4.0.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahender/.m2/repository/io/netty/netty-common/4.0.27.Final/netty-common-4.0.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahender/.m2/repository/io/netty/netty-handler/4.0.27.Final/netty-handler-4.0.27.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahender/.m2/repository/io/netty/netty-transport/4.0.27.Final/netty-transport-4.0.27.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
